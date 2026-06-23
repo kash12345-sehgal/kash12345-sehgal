@@ -1,5 +1,3 @@
-# kash12345-sehgal
-
 # Hi there, I'm Kashish Sehgal! 👋
 
 I am a highly motivated **B.Tech Computer Science and Engineering student (2023–2027)** with hands-on experience in full-stack web development and AI-integrated projects. I love building real-world, impact-driven applications and mastering emerging technologies.
