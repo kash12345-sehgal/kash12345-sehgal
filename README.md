@@ -15,10 +15,10 @@ I am a highly motivated **B.Tech Computer Science and Engineering student (2023â
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, Java, Python, JavaScript |
+| **Languages** | C++, Python, JavaScript |
 | **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
 | **Backend & DB** | Node.js, Express.js, MongoDB, SQL, MySQL |
-| **AI / ML / GenAI** | Gemini API, NumPy, Pandas |
+| libraries| Ai integration| Gemini API, NumPy, Pandas |
 | **Tools & Platforms** | Git, GitHub, VS Code, Postman |
 
 ---
